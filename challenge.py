@@ -1,0 +1,1 @@
+introString = input("enter your favourite colour:")
